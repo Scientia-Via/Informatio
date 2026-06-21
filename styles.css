@@ -45,7 +45,7 @@ a:hover{color:var(--text)}
   border-bottom:1px solid var(--border)}
 .brand{display:flex;gap:8px;align-items:center;font-weight:700;font-size:20px}
 .logo-mark{filter:drop-shadow(0 0 6px rgba(124,92,255,.5))}
-.brand-title{font-family:'Inter','Segoe UI',system-ui,sans-serif;font-weight:700;letter-spacing:.05em;font-size:18px;background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.brand-title{font-family:'Inter','Segoe UI',system-ui,sans-serif;font-weight:700;letter-spacing:.05em;font-size:18px;background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent;text-decoration: none}
 .brand-sub{font-family:var(--mono);font-size:10px;color:var(--muted);letter-spacing:.15em}
 .topnav{display:flex;gap:6px;font-family:inherit;font-size:14px}
 .topnav a{color:var(--text);opacity:.75;transition:.15s;padding:8px 16px;border-radius:8px;border:1px solid transparent}
